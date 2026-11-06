@@ -1,6 +1,0 @@
-*.jl.cov
-*.jl.mem
-.DS_Store
-Thumbs.db
-*.tmp
-~$*
